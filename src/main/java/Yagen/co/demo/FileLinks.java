@@ -4,10 +4,10 @@ import java.io.File;
 import java.util.ArrayList;
 
 public class FileLinks {
-    public static final String CLASSICAL_DIRECTORY = "";//Link to .mp3
-    public static final String COUNTRY_DIRECTORY = "";//Link to .mp3
-    public static final String JAZZ_DIRECTORY = "";//Link to .mp3
-    public static final String ROCK_DIRECTORY = "";//Link to .mp3
+    public static final String CLASSICAL_DIRECTORY = "";//Link to .mp3 folder
+    public static final String COUNTRY_DIRECTORY = "";//Link to .mp3 folder
+    public static final String JAZZ_DIRECTORY = "";//Link to .mp3 folder
+    public static final String ROCK_DIRECTORY = "";//Link to .mp3 folder
 
     private static ArrayList<String> tracks = new ArrayList<>();
 
